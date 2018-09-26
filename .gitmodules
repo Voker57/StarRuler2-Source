@@ -1,0 +1,3 @@
+[submodule "mods/Rising Stars"]
+	path = mods/Rising Stars
+	url = https://github.com/Voker57/Rising-Stars.git
